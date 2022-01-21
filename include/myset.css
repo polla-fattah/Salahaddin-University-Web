@@ -1,0 +1,67 @@
+/* CSS Document */
+p{ font-family:Tahoma ; font-size:11px ; padding-left:5px; padding-right:5px; line-height:180%}
+
+p.title{ font-family:Tahoma ; font-size:10px ; padding-left:5px; padding-right:5px; line-height:120%}
+p.small{ font-family:Tahoma ; font-size:9px ; padding-left:5px; line-height:150%}
+
+.menuNormal{font-family:Tahoma; font-size:10px; color:#000000; background-image:url(../img/menu/hnormal.jpg); background-repeat:no-repeat; }
+.menuActive{font-family:Tahoma; font-size:10px; color:#ffffff; background-image:url(../img/menu/hactive.jpg); background-repeat:no-repeat; }
+
+.graydark {color: #333333}
+
+a:link{color:#000000; text-decoration:none}
+a:visited{color:#000000; text-decoration:none}
+a:hover{color:#9B2E2B; text-decoration:none}
+a:active{color:#000000; text-decoration:none}
+
+a.whiteLnk:link{color:#ffffff; text-decoration:none}
+a.whiteLnk:visited{color:#ffffff; text-decoration:none}
+a.whiteLnk:hover{color:#ffffff; text-decoration:none}
+a.whiteLnk:active{color:#ffffff; text-decoration:none}
+
+
+a.BlackLnk:link{color:#000000; text-decoration:none}
+a.BlackLnk:visited{color:#000000; text-decoration:none}
+a.BlackLnk:hover{color:#333333; text-decoration:underline}
+a.BlackLnk:active{color:#000000; text-decoration:none}
+
+a.menutop:link{color:#000000; text-decoration:none; display:block; width:100%; }
+a.menutop:visited{color:#000000; text-decoration:none; display:block; width:100%;  }
+a.menutop:hover{color:#000000; text-decoration:none; display:block; width:100%; }
+a.menutop:active{color:#000000; text-decoration:none; display:block; width:100%; }
+
+a.menutopa:link{color:#ffffff; text-decoration:none; display:block; width:100%; }
+a.menutopa:visited{color:#ffffff; text-decoration:none; display:block; width:100%;  }
+a.menutopa:hover{color:#ffffff; text-decoration:none; display:block; width:100%; }
+a.menutopa:active{color:#ffffff; text-decoration:none; display:block; width:100%; }
+
+.menuvN{border:1px solid #9B2E2B; font-family:Tahoma ; font-size:10px; background-color:#9B2E2B }
+.menuvH{border:1px solid #ffffff; font-family:Tahoma ; font-size:10px; background-color:#9B2E2B}
+.menuvA{border:1px solid #ffffff; font-family:Tahoma ; font-size:10px; background-color:#ffffff }
+
+a.menuv:link{color:#ffffff; text-decoration:none; display:block; width:100%;}
+a.menuv:visited{color:#ffffff; text-decoration:none; display:block;width:100%;}
+a.menuv:hover{color:#ffffff; text-decoration:none; display:block;width:100%;}
+a.menuv:active{color:#ffffff; text-decoration:none; display:block;width:100%;}
+
+a.menuvactive:link{color:#000000; text-decoration:none; display:block; width:100%;}
+a.menuvactive:visited{color:#000000; text-decoration:none; display:block;width:100%;}
+a.menuvactive:hover{color:#000000; text-decoration:none; display:block;width:100%;}
+a.menuvactive:active{color:#000000; text-decoration:none; display:block;width:100%;}
+
+.txtBox{font-family:Tahoma; font-size:10px; border:1px solid #EAEAEA; background-color:#ffffff}
+.buttonBox{font-family:Tahoma; font-size:9px; border:1px solid #ffffff; background-color:#9B2E2B; color:#ffffff;}
+
+.thescroll{scrollbar-face-color:#ffffff;scrollbar-arrow-color:#9B2E2B; scrollbar-track-color:#eeeeee; scrollbar-shadow-color:#ffffff; scrollbar-darkshadow-color:#9B2E2B; scrollbar-3dlight-color:#9B2E2B; scrollbar-highlight-color:#ffffff;}
+
+.mybox { border:1px solid #999999; background-color:#ffffff; height:300px; position:static; overflow:hidden;}
+
+#lstcollege{scrollbar-face-color:#9B2E2B;scrollbar-arrow-color:#ffffff; scrollbar-track-color:#9B2E2B; scrollbar-shadow-color:#9B2E2B; scrollbar-darkshadow-color:#9B2E2B; scrollbar-3dlight-color:#9B2E2B; scrollbar-highlight-color:#9B2E2B;}
+
+.publicbox{ border:0px none; position:static; overflow:hidden; font-family:Tahoma ; font-size:11px; }
+
+.titlebox{border:1px solid #eaeaea; position:static; overflow:hidden; width:550px; height:15px; color:#333333; font-weight:bold; font-family:tahoma; font-size:10px; padding-left:5px; margin-bottom:10px  }
+
+.linkbox{border:1px solid #A3BCD6; position:static; overflow:hidden; width:150px; height:200px;font-size:10px; font-family:tahoma; color:#000000; margin:5px; float:right   }
+
+ul{font-family:tahoma; font-size:11px; color:#333333; }
